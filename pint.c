@@ -1,7 +1,7 @@
 #include <monty.h>
 
 /**
- * f_pint - prints the top
+ * pint - prints the top
  * @head : head of stack
  * @counter : line number
  * return : no
@@ -10,7 +10,7 @@
  */
 
 
-void f_pint(stack_t **head, unsigned int counter)
+void pint(stack_t **head, unsigned int counter)
 
 {
     if (*head == NULL)

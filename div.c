@@ -1,7 +1,7 @@
 #include <monty.h>
 
 /**
- * f_div - divides the two elements of a stack
+ * div - divides the two elements of a stack
  * @head : head of stack
  * @counter : line number
  * Return : No return
@@ -9,7 +9,7 @@
  * Author : Josiah Levi
  */
 
-void f_div(stack_t **head, unsigned int counter)
+void div(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
 	int len = 0, aux;
