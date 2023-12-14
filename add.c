@@ -5,13 +5,10 @@
  * @head : head of the stack
  * @counter : line numbers
  * return : no return
- * 
+ *
  * Author : Josiah Levi
  */
 
-/// @brief 
-/// @param head 
-/// @param counter 
 void add(stack_t **head, unsigned int counter)
 {
 	stack_t *h;

@@ -5,7 +5,7 @@
  * @head : head of the stack
  * @counter : line number
  * return - no return
- * 
+ *
  * Author : Josiah Levi
  */
 
@@ -26,4 +26,4 @@ void pop(stack_t **head, unsigned int counter)
 	free(h);
 }
 
- 
+

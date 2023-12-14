@@ -5,7 +5,7 @@
  * @head : stack head
  * @counter : line number
  * return : no return
- * 
+ *
  * Author : Josiah Levi
  */
 
